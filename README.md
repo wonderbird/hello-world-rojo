@@ -20,8 +20,9 @@ From the Rojo Menu select the **Build Project** icon. This will create the file 
 ## Run
 
 1. From the Rojo Menu launch the `default.project.json` profile
-2. Connect to the Rojo server from Roblox Studio via **Plugins -> Rojo**
-3. Run the application
+2. In Roblox open the `hello-world-rojo.rbxl` file
+3. Connect to the Rojo server from Roblox Studio via **Plugins -> Rojo**
+4. Run the application
 
 ## Links
 
